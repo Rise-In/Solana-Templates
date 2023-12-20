@@ -1,3 +1,3 @@
-# Solana Bootcamp Content
+# Solana Content
 
-This repository contains every content of the Solana Bootcamp, including templates and finished versions.
+This repository contains every content of the Solana Lessons, including templates and finished versions.
